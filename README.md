@@ -1,8 +1,13 @@
-<h3 align="center">Fullstack Developer</h3>
+<h1 align="center">Hi 👋, I'm Chrigor Eduardo</h1>
+<h3 align="center">FullStack Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS, React Native e NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chrigor](https://github.com/Chrigor)
+
+- 💬 Ask me about **React, Node**
+
+- 📫 How to reach me **chrigor.edu3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
