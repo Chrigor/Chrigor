@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chrigor](https://github.com/Chrigor)
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node, JavaScript Vanilla**
 
 - 📫 How to reach me **chrigor.edu3@gmail.com**
 
