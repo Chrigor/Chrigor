@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chrigor Eduardo</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS, React Native e NodeJS**
 
