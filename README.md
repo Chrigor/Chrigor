@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chrigor Eduardo</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS, React Native e NodeJS**
+- 🌱 I’m currently learning **NextJS, Clean archtecture**
 
-- 💬 Ask me about **React, Node, JavaScript Vanilla**
+- 💬 Ask me about **NextJS, ReactJS, TypeScript, Node, JavaScript Vanilla**
 
 - 📫 How to reach me **chrigor.edu3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chrigoreduardo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrigoreduardo/" height="30" width="40" /></a>
-<a href="https://fb.com/chrigor.eduardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chrigor.eduardo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
