@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chrigor Eduardo</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 🌱 I’m currently learning **NextJS, Clean archtecture**
+- 🌱 I’m currently learning **NextJS, TDD, Clean Archtecture**
 
 - 💬 Ask me about **NextJS, ReactJS, TypeScript, Node, JavaScript Vanilla**
 
